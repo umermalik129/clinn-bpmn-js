@@ -46,7 +46,7 @@ describe('Modeler', function() {
   }
 
 
-  it('should import simple process', function() {
+  it.only('should import simple process', function() {
     var xml = require('../fixtures/bpmn/simple.bpmn');
     return createModeler(xml).then(function(result) {
 
