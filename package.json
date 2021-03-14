@@ -1,5 +1,5 @@
 {
-  "name": "bpmn-js",
+  "name": "clinn-bpmn-js",
   "version": "8.2.1",
   "description": "A bpmn 2.0 toolkit and web modeler",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bpmn-io/bpmn-js"
+    "url": "https://github.com/umermalik129/clinn-bpmn-js"
   },
   "keywords": [
     "bpmn",
